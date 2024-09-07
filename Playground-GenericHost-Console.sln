@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playground-GenericHost-Console", "Playground-GenericHost-Console\Playground-GenericHost-Console.csproj", "{76ABA971-7135-4F8A-BF10-3280EA299D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76ABA971-7135-4F8A-BF10-3280EA299D37}.Debug|x64.ActiveCfg = Debug|x64
+		{76ABA971-7135-4F8A-BF10-3280EA299D37}.Debug|x64.Build.0 = Debug|x64
+		{76ABA971-7135-4F8A-BF10-3280EA299D37}.Release|x64.ActiveCfg = Release|x64
+		{76ABA971-7135-4F8A-BF10-3280EA299D37}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AE635A6-BAEA-418E-9F57-6AAFD1B4BE78}
+	EndGlobalSection
+EndGlobal
